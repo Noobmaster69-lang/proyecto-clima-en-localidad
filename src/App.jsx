@@ -1,8 +1,8 @@
 
-import { useEffect, useState, ImageBackground } from 'react';
+import { useEffect, useState } from 'react';
 import './App.css'
 import  axios  from 'axios';
-import WeatherCard from './components/weatherCard';
+import WeatherCard from './components/WeatherCard';
 
 function App() {
 
